@@ -1,0 +1,38 @@
+{
+    "people" : [
+        {
+            "title" : "April Underwood",
+            "description" : "CEO and Founder, local Laboratary. Co-fonder #ANajkaslkdaslsd"
+        },
+        {
+            "title" : "Helena Prince Hambrecht",
+            "description" : "Founder @dirnkaus / Twitter @helena"
+        },
+        {
+            "title" : "James Cham",
+            "description" : "@jamescham"
+        }
+    ],
+    "conversation" : [
+        {
+            "title" : "Tech",
+            "description" : "Venture Capital, DTC, AI, SaaS, Angel Investing"
+        },
+        {
+            "title" : "Hanging Out",
+            "description" : "Venture Capital, DTC, AI, SaaS, Angel Investing"
+        },
+        {
+            "title" : "Faith",
+            "description" : "Venture Capital, DTC, AI, SaaS, Angel Investing"
+        },
+        {
+            "title" : "Wellness",
+            "description" : "Venture Capital, DTC, AI, SaaS, Angel Investing"
+        },
+        {
+            "title" : "World Affairs",
+            "description" : "Venture Capital, DTC, AI, SaaS, Angel Investing"
+        }
+    ]
+}
